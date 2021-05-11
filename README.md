@@ -8,5 +8,5 @@ Version copia de una pagina web intentando implementar todos los conocimientos p
 - CSS
 - Flexbox
 
-## Ver Online
+## Link del Proyecto
 Este proyecto se encuentra en: https://jeremias284.github.io/PaginaWeb_Calzada_Jeremias/
