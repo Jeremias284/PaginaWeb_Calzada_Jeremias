@@ -9,4 +9,4 @@ Version copia de una pagina web intentando implementar todos los conocimientos p
 - Flexbox
 
 ## Ver Online
-Este proyecto se encuentra en: https://jeremias284.github.io/Mis-Propio-Juego-De-Damas/
+Este proyecto se encuentra en: https://jeremias284.github.io/PaginaWeb_Calzada_Jeremias/
